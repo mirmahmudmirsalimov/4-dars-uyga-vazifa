@@ -1,0 +1,48 @@
+.deleteTask {
+    color: #fff;
+    background: rgb(156, 82, 82);
+    border: 2px solid black;
+    width: 100%;
+    max-width: 235px;
+    padding: 10px;
+    border-radius: 8px;
+}
+.clearTask {
+    margin: 30px 0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    max-width: 235px;
+    color: #fff;
+    background: red;
+    border: 2px solid black;
+    padding: 20px;
+    border-radius: 8px;
+}
+.btn {
+    color: #fff;
+    background: rgb(250, 22, 10);
+    border-radius: 8px;
+    border: 1px solid black;
+    padding: 10px;
+}
+.inputVal {
+    border: 2px solid black;
+    padding: 10px;
+    border-radius: 8px;
+}
+
+p {
+    margin: 20px;
+    border: 2px solid black;
+    width: 100%;
+    max-width: 170px;
+    padding: 10px;
+    border-radius: 8px;
+    color: #fff;
+    background-color: rgba(24, 119, 16, 0.767);
+}
+
+/* +++++++++++++ */
+
